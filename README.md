@@ -34,8 +34,9 @@ This application uses a SQL Server database to store user and account informatio
 # Output
 
 # Login
+![Screenshot 2023-05-14 194301](https://github.com/balaji1732000/Bank-Application-Using-ASP.Net/assets/70811241/a29085ec-3d53-42d9-b5cb-3ff73d56b9c3)
 
-![Screenshot 2023-05-14 194301](https://github.com/balaji1732000/Bank-Application-Using-ASP.Net/assets/70811241/4fff2478-afd4-42b1-be85-82af1bdf4356)
+
 
 # Registration
 ![Bank_Registerpage](https://github.com/balaji1732000/Bank-Application-Using-ASP.Net/assets/70811241/e6c0d616-c2c5-46d4-aed3-45e9d54cde07)

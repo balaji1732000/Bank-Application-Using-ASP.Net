@@ -61,7 +61,3 @@ This application can be improved in the following ways:
 ## Contributors
 
 This project was created by [Balaji] and developed. If you would like to contribute to this project, please submit a pull request or contact the project owner.
-
-## License
-
-This project is licensed under the [License Name] license. See the `LICENSE` file for details.
